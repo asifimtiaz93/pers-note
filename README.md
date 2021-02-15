@@ -2,7 +2,7 @@
 This repo contain personal codes to ease up life
 
 
-<h2>New.sh</h2>
+# New.sh
 <p>This shell script does following job:
 <ul>Creates a new shell script</ul>
 <ul>Adds shebang line</ul>
